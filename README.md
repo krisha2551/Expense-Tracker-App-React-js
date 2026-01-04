@@ -15,10 +15,7 @@ Always know your available balance
 
 🚀 Live Preview
 
-(Add your deployed link here)
-👉 https://your-live-link.netlify.app
-
-🖼️ Application Preview
+👉 https://expense-tracker-app-react-js-three.vercel.app/
 
 🔥 Key Features
 
@@ -36,6 +33,7 @@ Remaining Balance
 ✔ Fast performance using Vite
 
 🧠 How It Works
+
 | Type    | Input           | Result                |
 | ------- | --------------- | --------------------- |
 | Income  | Positive amount | Added to balance      |
@@ -45,6 +43,7 @@ Remaining Balance
 The app automatically updates totals whenever a new transaction is added.
 
 🛠️ Technologies Used
+
 | Technology | Purpose         |
 | ---------- | --------------- |
 | React JS   | UI development  |
@@ -54,6 +53,7 @@ The app automatically updates totals whenever a new transaction is added.
 
 
 📂 Folder Structure
+
 src/
 │
 ├── components/
@@ -68,6 +68,7 @@ src/
 └── main.jsx
 
 ⚙️ Installation Steps
+
 git clone https://github.com/your-username/expense-tracker-app.git
 cd expense-tracker-app
 npm install
